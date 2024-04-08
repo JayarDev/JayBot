@@ -4,7 +4,7 @@ module.exports.config = {
    name: "sim",
    version: "4.3.7",
    hasPermssion: 0,
-   credits: "Eugene Aguilar", 
+   credits: "Jay Ar", 
    description: "Chat with the best sim Chat",
    commandCategory: "sim",
    usages: "on/off",
